@@ -1,8 +1,6 @@
 # Local-Data-Persistent-4
 Latihan Menyimpan Data dengan DataStore
 
-Latihan Menyimpan Data dengan DataStore
-
 Pada codelab kali ini, Anda akan mempelajari cara menyimpan dan membaca data dari DataStore. Beberapa poin yang akan dibedah, antara lain:
 
 1. Bagaimana mengganti tema menggunakan Switch?
